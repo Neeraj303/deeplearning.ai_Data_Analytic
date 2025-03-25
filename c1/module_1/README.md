@@ -1,4 +1,4 @@
-## Module 1
+## Module 1: Data and Data analyst role
 
 
 [Slides](./C1_M1.pdf)
