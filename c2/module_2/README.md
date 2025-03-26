@@ -175,16 +175,16 @@ For normal distribution, the mean, median, and mode are equal. The normal distri
 
 The standard normal distribution has a mean of 0 and a standard deviation of 1.
 
-$$ Z \sim N(0,1) $$
+$$ Z \sim N(0,1) $$  
 
 **Z-Score** are similar to percentile ranks, but they are based on standard deviations. Z-scores are used to measure how many standard deviations a value is from the mean of a distribution. They provide a way to standardize scores on different scales, making it easier to compare data points from different distributions.  
 
-A z-score indicates how far and in what direction a value deviates from the mean of the data set. A positive z-score means the data point is above the mean, while a negative z-score indicates it is below the mean.
-$$ Z = \frac{X - \mu}{\sigma} $$
-$$ X = \mu + Z \cdot \sigma $$
-$$ P(X \leq x) = P(Z \leq \frac{x - \mu}{\sigma}) $$
-$$ P(X \geq x) = 1 - P(X \leq x) $$
-$$ P(X > x) = 1 - P(X \leq x) $$
+A z-score indicates how far and in what direction a value deviates from the mean of the data set. A positive z-score means the data point is above the mean, while a negative z-score indicates it is below the mean.  
+$$ Z = \frac{X - \mu}{\sigma} $$   
+$$ X = \mu + Z \cdot \sigma $$  
+$$ P(X \leq x) = P(Z \leq \frac{x - \mu}{\sigma}) $$  
+$$ P(X \geq x) = 1 - P(X \leq x) $$   
+$$ P(X > x) = 1 - P(X \leq x) $$  
 
 
 - **90%** of the data: within **1.645** standard deviations 
@@ -232,7 +232,7 @@ The exponential distribution equals the gamma distribution with the parameter k 
 ![alt text](quiz/l3_quiz.png)  
 ![alt text](quiz/l3_quiz_sol.png)  
 
-**Practice Lab: DJing with data follow up - Part 3**  
+**Practice Lab: DJing with data follow up - Part 3**    
 [C2M2_PracticeLab_3](https://docs.google.com/spreadsheets/d/1Mf4sa0CMfiQ4cHzoJAJcBp77hilXtwLZ1jJmQFKFQSk/edit?usp=sharing)
 -----
 
